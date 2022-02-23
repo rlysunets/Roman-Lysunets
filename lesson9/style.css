@@ -90,9 +90,9 @@ body {
     .heading__title {
         margin: 0 0 60px 0;
     }
-    .section__content {
-        margin: 0 0 70px 0;
-    }
+.section__content {
+    margin: 0 0 70px 0;
+}
 /* -------------------------------------------------------------- */
 .title {
     font-family: Roboto;
